@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3f25bde9.chunk.css",
+    "main.js": "/static/js/main.e7973192.chunk.js",
+    "main.js.map": "/static/js/main.e7973192.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5e24e384.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5e24e384.js.map",
+    "static/js/2.d3f266e7.chunk.js": "/static/js/2.d3f266e7.chunk.js",
+    "static/js/2.d3f266e7.chunk.js.map": "/static/js/2.d3f266e7.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.0fee92dcd7675ed06fb0dacb5402507b.js": "/precache-manifest.0fee92dcd7675ed06fb0dacb5402507b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.3f25bde9.chunk.css.map": "/static/css/main.3f25bde9.chunk.css.map",
+    "static/js/2.d3f266e7.chunk.js.LICENSE": "/static/js/2.d3f266e7.chunk.js.LICENSE",
+    "static/media/KwoonChungBusHoldings_logo.jpg": "/static/media/KwoonChungBusHoldings_logo.0a457da3.jpg",
+    "static/media/SkyEyeBasNews.jpg": "/static/media/SkyEyeBasNews.718966cb.jpg",
+    "static/media/atman fish banner.jpg": "/static/media/atman fish banner.193647f2.jpg",
+    "static/media/kongs_logo.jpg": "/static/media/kongs_logo.99d5d9a2.jpg",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
+    "static/media/logo.png": "/static/media/logo.e2af256f.png",
+    "static/media/lovingkids_logo.jpg": "/static/media/lovingkids_logo.28c016ab.jpg",
+    "static/media/singTaoDailyLogo.jpg": "/static/media/singTaoDailyLogo.4278e26e.jpg",
+    "static/media/skyEyeNewsImage1.jpg": "/static/media/skyEyeNewsImage1.2f985313.jpg",
+    "static/media/skyEyeNewsImage2.jpg": "/static/media/skyEyeNewsImage2.2da76899.jpg",
+    "static/media/skyEyeNewsImage3.jpg": "/static/media/skyEyeNewsImage3.8ebe8060.jpg",
+    "static/media/vtcLogo.jpg": "/static/media/vtcLogo.99c7f58a.jpg",
+    "static/media/webpage_screenshot.png": "/static/media/webpage_screenshot.e2af256f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e24e384.js",
+    "static/js/2.d3f266e7.chunk.js",
+    "static/css/main.3f25bde9.chunk.css",
+    "static/js/main.e7973192.chunk.js"
+  ]
+}
